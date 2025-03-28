@@ -3,7 +3,7 @@
  * Plugin Name: MK Fixture Generator
  * Plugin URI: https://ivytag.live
  * Description: Simple Sports/Match Fixture Generator based on SportsPress plugin.
- * Version: 1.0.1
+ * Version: 0.0.1
  * Author: Mikael Kraft
  * Author URI: https://x.com/mikael_kraft
  * Requires at least: 6.0

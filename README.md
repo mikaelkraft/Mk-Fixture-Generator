@@ -9,3 +9,6 @@ Generates match/league fixtures for teams created with Sportspress in WP. No nee
 #### Date and time selection. This helps with event scheduling and countdowns.
 
 # Sportspress Pro by Themeboy must be installed
+
+> MK Fixture Generator ``` v0.0.1 ```
+with ❤️ Mikael Kraft.
